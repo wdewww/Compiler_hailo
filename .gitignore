@@ -1,0 +1,7 @@
+venv
+runs
+.install_logs
+yolo*
+hailo*
+calib*
+a*
